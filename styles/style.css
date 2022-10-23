@@ -1,4 +1,24 @@
-
-.explicacion{
-    background-image: url(../images/background.jpg)
+.explication{
+    background-image: url(../images/background.jpg);
+    background-size: 100%;
+    padding-bottom: 200px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+.im{
+    width: 414px;
+    height: 230px;
+}
+.card{
+    border-color: rgba(255, 255, 255, 0);
+    background-color: unset;
+}
+.nature{
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.adventures{
+    background-color: rgba(129, 243, 243, 0.368);
+    padding-bottom: 50px;
 }
