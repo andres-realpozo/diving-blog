@@ -22,3 +22,7 @@
     background-color: rgba(129, 243, 243, 0.368);
     padding-bottom: 50px;
 }
+.become{
+    background-color: hwb(95 51% 5% / 0.368);
+    padding-bottom: 50px;
+}
